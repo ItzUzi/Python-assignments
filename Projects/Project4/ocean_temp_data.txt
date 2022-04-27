@@ -1,0 +1,6 @@
+max: 65.0
+min: -109.0
+mean: -40.16
+median: -46.0
+mode: -60.0
+std deviation: 33.975
